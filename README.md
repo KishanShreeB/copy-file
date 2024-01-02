@@ -35,9 +35,10 @@ copy(fname,nfile)
 ```
 
 ### OUTPUT:
-![image](https://github.com/KishanShreeB/copy-file/assets/144870434/ec5eadae-9b0e-4be6-94f6-2885ada09634)
+![image](https://github.com/KishanShreeB/copy-file/assets/144870434/82e6c83e-c48f-49b9-8872-7bbb6a0de990)
 ![image](https://github.com/KishanShreeB/copy-file/assets/144870434/4c90d8aa-98a4-42cf-b1e6-c67f6defa6cb)
-![image](https://github.com/KishanShreeB/copy-file/assets/144870434/67b517fc-478d-44b3-a41f-beb67b3eb0d0)
+![image](https://github.com/KishanShreeB/copy-file/assets/144870434/b9ac4778-5894-45cb-9bb4-03380a37cae0)
+
 
 
 
