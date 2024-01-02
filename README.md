@@ -10,7 +10,7 @@ Create two txt file.A file which has content [sample.txt] to be copied to the em
 ### Step 2: 
  Using write() function to copy the content from sample.txt to empty file,copy.txt.
 ### Step 3: 
-Save and run the python program in terminal.
+Save and run the python program to copy the content.
 ### Step 4:  
 The text from the sample.txt file is copied to the empty file copy.txt.
 ### Step 5: 
